@@ -1,1 +1,3 @@
 baseurl: /sageblog
+markdown: redcarpet
+pygments: true
