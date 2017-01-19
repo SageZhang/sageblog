@@ -3,6 +3,6 @@
 博客地址
 www.sagezhang.com
 ====
-使用了Jekyll作文搭建工具
+使用了Jekyll搭建
 
 使用了flex模版[here](http://the-development.github.io/flex/).
